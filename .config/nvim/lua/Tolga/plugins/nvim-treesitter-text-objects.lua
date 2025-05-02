@@ -3,6 +3,16 @@ return {
   lazy = true,
   config = function()
     require("nvim-treesitter.configs").setup({
+      ensure_installed = {
+        "dockerfile",
+        "javascript",
+        "json",
+        "html",
+        "go",
+        "tsx",
+        "bash",
+        "java",
+      },
       textobjects = {
         select = {
           enable = true,

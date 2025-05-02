@@ -161,3 +161,4 @@ _fzf_comprun() {
 # ---- Eza (better ls) ----
 
 alias ls="eza --color=always --long --git --no-filesize --icons=always --no-time --no-user --no-permissions"
+export PATH=$PATH:$HOME/go/bin/
