@@ -32,7 +32,7 @@ I use Tmux to manage terminal panes and sessions. Combined with Neovim, it provi
 
 ---
 
-## 🧩 Tiling Window Manager
+## 🧩 Aerospace Tiling Window Manager
 
 I'm using the **Aerospace** tiling window manager for macOS, with a configuration tuned for productivity and ergonomic workspace navigation.
 
@@ -69,7 +69,7 @@ I’ve switched to the modern **lazy.nvim** plugin manager. My config is focused
 
 ---
 
-🧠 Credits & Inspiration
+## 🧠 Credits & Inspiration
 
 Many configurations and ideas are adapted from josean-dev’s dev-environment-files, an excellent reference for modern terminal setups.
 👉 Here’s the link to his full dotfiles: github.com/josean-dev/dev-environment-files
