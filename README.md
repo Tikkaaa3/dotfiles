@@ -6,6 +6,14 @@ A curated collection of my personal dev environment configurations and tools. Th
 
 ---
 
+# Preview
+
+
+https://github.com/user-attachments/assets/d7a72e77-966c-4e8b-bd70-568bcee3dad5
+
+
+---
+
 ## 🧱 Terminal Setup
 
 I use **WezTerm** as my terminal emulator, configured via a `~/.wezterm.lua` file. It provides GPU-accelerated rendering, ligature support, and performs well with Neovim.
