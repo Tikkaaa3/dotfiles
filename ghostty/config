@@ -1,0 +1,58 @@
+# ~/.config/ghostty/config
+
+# --- WINDOW & APPEARANCE ---
+# Base Background (Deep Blue-Grey)
+# background = #1e1e2e
+background = black
+# Text (Lavender/Off-White)
+foreground = #cdd6f4
+background-opacity = 0.5
+
+# Cursor (Rosewater - a soft pinkish white)
+cursor-color = #f5e0dc
+cursor-style = block
+cursor-style-blink = true
+
+# Selection (Surface 2 - a lighter grey)
+selection-background = #585b70
+selection-foreground = #cdd6f4
+
+# Clean Window
+window-decoration = false
+
+# --- CATPPUCCIN MOCHA PALETTE ---
+# Black (Surface 1 / Surface 2)
+palette = 0=#45475a
+palette = 8=#585b70
+
+# Red
+palette = 1=#f38ba8
+palette = 9=#f38ba8
+
+# Green
+palette = 2=#a6e3a1
+palette = 10=#a6e3a1
+
+# Yellow
+palette = 3=#f9e2af
+palette = 11=#f9e2af
+
+# Blue
+palette = 4=#89b4fa
+palette = 12=#89b4fa
+
+# Magenta (Pink)
+palette = 5=#f5c2e7
+palette = 13=#f5c2e7
+
+# Cyan (Teal)
+palette = 6=#94e2d5
+palette = 14=#94e2d5
+
+# White (Subtext)
+palette = 7=#bac2de
+palette = 15=#a6adc8
+
+# --- FONT ---
+font-family = "JetBrainsMono Nerd Font"
+font-size = 15

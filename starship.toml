@@ -1,0 +1,39 @@
+add_newline = true
+
+[character]
+# Mauve (Success) and Red (Error)
+success_symbol = "[>](bold #cba6f7)"
+error_symbol = "[>](bold #f38ba8)"
+
+[directory]
+# Mauve 
+style = "bold #cba6f7"
+truncation_length = 3
+
+[git_branch]
+symbol = " "
+# Rosewater (Soft Pink/White)
+style = "bold #f5e0dc"
+
+[git_status]
+style = "bold #f38ba8"
+
+[nodejs]
+symbol = " "
+# Green
+style = "bold #a6e3a1"
+
+[rust]
+symbol = " "
+# Peach (Matches Rust logo)
+style = "bold #fab387"
+
+[golang]
+symbol = " "
+# Blue (Matches Go logo)
+style = "bold #89b4fa"
+
+[php]
+symbol = " "
+# Lavender
+style = "bold #b4befe"
