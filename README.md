@@ -1,4 +1,4 @@
-# My Dotfiles
+# tikka dotfiles
 
 A curated collection of my personal dev environment configurations and tools.
 
