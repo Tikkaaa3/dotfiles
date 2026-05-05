@@ -1,5 +1,21 @@
 # tikka dotfiles
 
+<p align="center">
+
+![Linux](https://img.shields.io/badge/OS-Linux-FCC624?style=for-the-badge&logo=linux)
+![Arch](https://img.shields.io/badge/Distro-Arch-1793D1?style=for-the-badge&logo=archlinux)
+![Wayland](https://img.shields.io/badge/Display-Wayland-7F7FFF?style=for-the-badge)
+![Hyprland](https://img.shields.io/badge/WM-Hyprland-00C7B7?style=for-the-badge)
+
+![Neovim](https://img.shields.io/badge/Editor-Neovim-57A143?style=for-the-badge&logo=neovim)
+![Shell](https://img.shields.io/badge/Shell-Bash-4EAA25?style=for-the-badge&logo=gnu-bash)
+![Terminal](https://img.shields.io/badge/Terminal-Ghostty-000000?style=for-the-badge)
+
+![Dotfiles](https://img.shields.io/badge/Config-Dotfiles-blueviolet?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+
+</p>
+
 A curated collection of my personal dev environment configurations and tools.
 
 ---
